@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/index.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/az_account.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/az_ad_sp_create_for_rbac.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/az_cli_run.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/az_configure.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/az_login.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/az_webapp.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/get_ghactions_url.html</loc>
+  </url>
+  <url>
+    <loc>https://subugoe.github.io/AzureAppService/reference/is_github_actions.html</loc>
+  </url>
+</urlset>
